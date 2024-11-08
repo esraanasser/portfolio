@@ -65,8 +65,10 @@ Here’s a glimpse of my work—each project is a blend of creativity, functiona
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
   <!-- WordPress -->
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
+
   <!-- ASP.NET -->
-  <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="48" height="48" />
+
   <!-- Git -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <!-- GitHub -->
