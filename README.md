@@ -43,3 +43,35 @@ Here’s a glimpse of my work—each project is a blend of creativity, functiona
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
 </p>
+
+## Languages and Tools 🛠
+
+<p align="center">
+  <!-- HTML5 -->
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <!-- TypeScript -->
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <!-- React -->
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React" />
+  <!-- Angular -->
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+  <!-- Tailwind CSS -->
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" />
+  <!-- Bootstrap -->
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+  <!-- WordPress -->
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
+  <!-- ASP.NET -->
+  <img src="https://img.icons8.com/color/48/000000/asp-net.png" alt="ASP.NET" />
+  <!-- Git -->
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" />
+  <!-- Visual Studio Code -->
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+</p>
+
