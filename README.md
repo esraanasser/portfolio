@@ -25,39 +25,39 @@ Esraa </h1>
 - 📫 How to reach me **esraanasser320@gmail.com**
 
 - 📄 take a look about my projects
-  # e-commerce web application built using Angular2 framework, HTML, and CSS
+   e-commerce web application built using Angular2 framework, HTML, and CSS
   
 - <a href="https://e-commerce-n4ug.vercel.app/home" target="blank">Live demo for the project</a>
-  # Angular a simple angular application mainly focuses on routing idea 
+   Angular a simple angular application mainly focuses on routing idea 
   
 - <a href="https://esraanasser.github.io/angular1/home" target="blank">Live demo for the project</a>
-  # yummy Food Recipes AJAX website Depends on API to get and display meal recipes from different countries and show each meal's details depending on category, area, ingredients, and search by name (HTML, CSS, JavaScript )  
+   yummy Food Recipes AJAX website Depends on API to get and display meal recipes from different countries and show each meal's details depending on category, area, ingredients, and search by name (HTML, CSS, JavaScript )  
   
 - <a href="https://esraanasser.github.io/Food-recipes-API/" target="blank">Live demo for the project</a>
-  # A web application to display the weather forecast for a certain city using WeatherAPI.com (HTML, CSS, JavaScript) 
+  A web application to display the weather forecast for a certain city using WeatherAPI.com (HTML, CSS, JavaScript) 
   
 - <a href="https://assignment5-6mnd.vercel.app/" target="blank">Live demo for the project</a>
-  # is an app that allows users to register and then log in using localstorage to save user data (HTML, CSS, JavaScript ) 
+   is an app that allows users to register and then log in using localstorage to save user data (HTML, CSS, JavaScript ) 
   
 - <a href="https://esraanasser.github.io/smart_login_system/" target="blank">Live demo for the project</a>
-  # Egypt Guide is an informative website designed to assist tourists visiting Egypt. Using HTML, CSS, and Bootstrap, this platform provides comprehensive guides on Egyptian tourist attractions, cities, and transportation options.
+  Egypt Guide is an informative website designed to assist tourists visiting Egypt. Using HTML, CSS, and Bootstrap, this platform provides comprehensive guides on Egyptian tourist attractions, cities, and transportation options.
   
 - <a href="https://egypt-guide.vercel.app/" target="blank">Live demo for the project</a>
-  # camp is an informative website designed to Developed camping website template using HTML and CSS, designed to showcase outdoor adventures and scenic experiences.
+   camp is an informative website designed to Developed camping website template using HTML and CSS, designed to showcase outdoor adventures and scenic experiences.
   
 - <a href="https://esraanasser.github.io/camp/" target="blank">Live demo for the project</a>
-  # • CRUDS An app that allows users to add and remove URL links in local storage (HTML, CSS,JavaScript ) 
+   CRUDS An app that allows users to add and remove URL links in local storage (HTML, CSS,JavaScript ) 
   
 - <a href="https://esraanasser.github.io/CRUD/" target="blank">Live demo for the project</a>
-  # Egyption_Party Party ticket reservation websites using (HTML, CSS, JavaScript, and jQuery) 
+   Egyption_Party Party ticket reservation websites using (HTML, CSS, JavaScript, and jQuery) 
   
 - <a href="https://esraanasser.github.io/party-ticket-reservation/" target="blank">Live demo for the project</a>
 
-  # DevFolio A A PSD template (HTML, CSS, bootstrap ) 
+   DevFolio A A PSD template (HTML, CSS, bootstrap ) 
   
 - <a href="https://esraanasser.github.io/template-3/" target="blank">Live demo for the project</a>
 
-  # foodi A PSD template (HTML, CSS ) 
+   foodi A PSD template (HTML, CSS ) 
   
 - <a href="https://esraanasser.github.io/Foodi/" target="blank">Live demo for the project</a>
 
